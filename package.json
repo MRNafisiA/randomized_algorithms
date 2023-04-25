@@ -1,0 +1,16 @@
+{
+  "name": "randomized_algorithms",
+  "version": "1.0.0",
+  "main": "index.js",
+  "type": "module",
+  "license": "MIT",
+  "devDependencies": {
+    "prettier": "^2.8.8"
+  },
+  "scripts": {
+    "run": "node src/saveToText.js"
+  },
+  "repository": {
+    "url": "https://github.com/MRNafisiA/randomized_algorithms"
+  }
+}
